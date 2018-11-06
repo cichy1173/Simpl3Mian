@@ -4,6 +4,8 @@
 float funkcjaKwadratowa(float a, float b, float c, float delta, float x1, float x2, float x0);
 main()
 {
+while(1) {
+  
 	float a, b, c;
 	float delta;
 	float x1, x2, x0;
@@ -11,7 +13,7 @@ main()
 	scanf("%f %f %f", &a, &b, &c);
 	funkcjaKwadratowa(a, b, c, delta, x1, x2, x0);
 	system("pause");
-	return 0;
+}
 
 }
 float funkcjaKwadratowa(float a, float b, float c, float delta, float x1, float x2, float x0) {
