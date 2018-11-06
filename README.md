@@ -1,5 +1,10 @@
 # Simpl3Mian
-Hi,
+06.11.2018
+While(1) has been added.
+
+
+
+
 Simpl3Mian is a simple-text program. I made this because I wanted to count quadratic function faster. I guess, It can helps other people :).
 Simpl3Mian is using polish language but it's easy to change printf functions and add words in your language. 
 
