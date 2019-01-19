@@ -22,27 +22,27 @@ float funkcjaKwadratowa(float a, float b, float c, float delta, float x1, float 
 		if (delta>0) {
 	x1=(-b-sqrt(delta))/(2*a);
 	x2=(-b+sqrt(delta))/(2*a);
-	printf("Miejsca zerowe to: %.2f %.2f", x1, x2); }
+	printf("Miejsca zerowe to: %.2f %.2f\n\n", x1, x2); }
 	if (delta==0) {
 	
 	x0=(-b)/(2*a);
 	printf("Podwojne miejsce zerowe to %.2f\n\n", x0);
 }
 	if (delta<0) {
-		printf("Brak miejsc zerowych\n");
+		printf("Brak miejsc zerowych\n\n");
 	}
 }
     if (a==0 && b!=0 && c!=0) {
     	x0=(-c)/b;
-    	printf("Podwojny pierwiastek to: %.2f", x0);
+    	printf("Podwojny pierwiastek to: %.2f\n\n", x0);
 	}
 
     	if (a==0 && b==0 && c!=0) {
-    		printf("Brak miejsc zerowych funkcji");
+    		printf("Brak miejsc zerowych funkcji\n\n");
 		}
 
 		if (a==0 && b==0 && c==0) {
-		printf("Nieskonczenie wiele pierwiastkow");
+		printf("Nieskonczenie wiele pierwiastkow\n\n");
 		}
 
 
