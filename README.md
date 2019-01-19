@@ -1,4 +1,9 @@
 # Simpl3Mian
+19.01.2019
+Program works now properly when delta == 0.  
+
+
+
 06.11.2018
 While(1) has been added.
 
