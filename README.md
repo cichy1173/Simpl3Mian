@@ -5,7 +5,7 @@ Program works now properly when delta == 0.
 
 
 06.11.2018
-While(1) has been added.
+Program now works in endless loop (While(1)).
 
 
 
