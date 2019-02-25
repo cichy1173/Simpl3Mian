@@ -1,4 +1,9 @@
 # Simpl3Mian
+25.02.2019 
+Linux type file has been added
+
+
+
 19.01.2019
 Program works now properly when delta == 0.  
 
